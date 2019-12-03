@@ -5,3 +5,10 @@ HEAD                        test -> abcd   // git push
 LOCAL                       test -> abcd   // git commit -m "agregamos el archivo test"
 
 (Sin control de version)    test -> abcd   // git add test
+
+
+
+
+
+
+(https://www.w3schools.com/)
