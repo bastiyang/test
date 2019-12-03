@@ -1,5 +1,5 @@
 function onLoad() {
-    console.log("pepito");
+    console.log("Prueba 1");
 }
 
 function enviar() {
